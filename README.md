@@ -4,7 +4,7 @@
   Redux Toolkit
 </h1>
 
-This repository is a simple counter example that was used in the post () that show the basic uses of Redux Toolki.
+This repository is a simple counter example that was used in the [post](https://dev.to/renatobentorocha/redux-setup-in-a-fast-way-3ib6) that show the basic uses of Redux Toolki.
 
 ## Run
 
